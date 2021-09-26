@@ -1,0 +1,16 @@
+Time complexity
+
+a)T(n)=3T(n/2)+n
+   T(n)= Θ(n^log2^3).
+
+b)T(n)=64T(n/8)-n^2(log2)
+   NA  (f(n) is not positive)
+
+c)T(n)=2nT(n/2)+n^n
+   NA  (a is not constant)
+
+d)T(n)=3T(n/3)+n/2
+   T(n)=Θ(nlogn)
+
+e)T(n)=7T(n/3)+n^2
+    T(n)=Θ(n^2)  
